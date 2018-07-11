@@ -1,0 +1,12 @@
+Dependencies to install :
+
+pandas 
+beautifulsoup
+html5lib
+
+
+Run these commands Windows Console and restart the system:
+
+pip install pandas
+pip install html5lib
+pip install beautifulsoup4
